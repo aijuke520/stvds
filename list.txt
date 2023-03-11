@@ -5,6 +5,9 @@
 2023年03月11日,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9YWFlbUVudkE3Tkpu.mp4
 资源均来自网络,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9UlpmWTdycVFSdm15.mp4
 请勿作商业用途,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9YmlhQWpleVV2bXlx.mp4
+可以加入交流群,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9eTZ2NkpmTW5tZXFp.mp4
+①群1082599899,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9WnJ1SWZhcWlVTm51.mp4
+②群1082332055,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9TWJZWlp2ZmVVM0li.mp4
 ============,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9WVozQXZxcU1GenFx.mp4
 
 ▣央视频道▣,#genre#
@@ -6483,6 +6486,22 @@ JYTV 新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 梨园,http://61.163.111.46/tvcdn.stream3.hndt.com/tv/6b32da00ac754c8a8f2e310b22d11fb3_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
 文物宝库,http://61.163.111.46/tvcdn.stream3.hndt.com/tv/edeb8f0314984727a91a3d6e8c03f59b_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+河南卫视,http://zhgx.sqitv.com:888/hls/20/index.m3u8
+河南公共,http://zhgx.sqitv.com:888/hls/22/index.m3u8
+河南民生,http://zhgx.sqitv.com:888/hls/23/index.m3u8
+河南都市,http://zhgx.sqitv.com:888/hls/26/index.m3u8
+河南法治,http://zhgx.sqitv.com:888/hls/25/index.m3u8
+河南国际,http://zhgx.sqitv.com:888/hls/30/index.m3u8
+河南新闻,http://zhgx.sqitv.com:888/hls/32/index.m3u8
+河南电视剧,http://zhgx.sqitv.com:888/hls/33/index.m3u8
+河南卫视,http://zhgx.sqitv.com:888/hls/20/index.m3u8
+河南公共,http://zhgx.sqitv.com:888/hls/22/index.m3u8
+河南民生,http://zhgx.sqitv.com:888/hls/23/index.m3u8
+河南都市,http://zhgx.sqitv.com:888/hls/26/index.m3u8
+河南法治,http://zhgx.sqitv.com:888/hls/25/index.m3u8
+河南国际,http://zhgx.sqitv.com:888/hls/30/index.m3u8
+河南新闻,http://zhgx.sqitv.com:888/hls/32/index.m3u8
+河南电视剧,http://zhgx.sqitv.com:888/hls/33/index.m3u8
 河南·许昌综合,http://live.s23.net:2015/live/smil:xczh.smil/chunklist_w866570837_b796000_sl360P.m3u8
 河南·许昌公共,http://live.s23.net:2015/live/smil:xcgg.smil/chunklist_w1067187704_b1628000_slHDTV.m3u8
 河南·睛彩许昌,http://live.s23.net:2015/live/smil:jcxc.smil/chunklist_w1107254451_b1628000_slHDTV.m3u8
