@@ -1,8 +1,8 @@
 📺通知📺,#genre# 
-欢迎使用STV,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313698307735.mp4 
+欢迎使用STV,https://189.ly93.cc/b2q2qyY77neq/62375155036049829?accessCode=7sqx&accessToken=C0132FE0EF60105EECD170BDB9539212
 ===========,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313341682455.mp4 
 频道更新时间,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313689895693.mp4 
-2023年03月11日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
+2023年03月12日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
 资源均来自网络,https://189.ly93.cc/N7Bbiq6RVjY3/21396113487660887?accessToken=C0132FE0EF60105EECD170BDB9539212
 请勿作商业用途,https://189.ly93.cc/nyeQbyZV3YRj/31414213391406980?accessToken=C0132FE0EF60105EECD170BDB9539212
 可以加入交流群,https://189.ly93.cc/aaemEnvA7NJn/21396113487660674?accessToken=C0132FE0EF60105EECD170BDB9539212
@@ -1102,6 +1102,17 @@ CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw911517877_-175
 CCTV16-4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&
 CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV3-4K,http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K,http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8-4K,http://ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+
 凤凰卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
 凤凰咨询,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
 北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
@@ -1429,9 +1440,21 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 未知,http://39.135.138.59:18890/PLTV/88888910/224/3221225712/index.m3u8
 未知,http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
+星卫电影台,https://cn-gdst-cm-01-02.bilivideo.com/live-bvc/671098/live_291530596_2965055/index.m3u8
+经典联播,https://cn-sdjn-cm-02-13.bilivideo.com/live-bvc/988576/live_14659392_8620418_4000/index.m3u8
 影音馆<鬼片>https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/831885/live_362963326_14864388_1500.m3u8
 影音馆<恐怖>,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/960069/live_22989278_9714011_1500.m3u8
-
+林正英,https://cn-jxnc-cm-01-13.bilivideo.com/live-bvc/397208/live_22989278_9714011_bluray/index.m3u8
+回顾经典,https://cn-gdst-cm-01-14.bilivideo.com/live-bvc/535554/live_435814170_12013695/index.m3u8
+经典医护类剧,https://cn-sdjn-cm-02-14.bilivideo.com/live-bvc/835301/live_1358412967_5395913/index.m3u8
+经典鬼片,https://cn-jxnc-cm-01-19.bilivideo.com/live-bvc/467467/live_25999342_7533504/index.m3u8
+星级剧集台,https://cn-jssz-cm-02-05.bilivideo.com/live-bvc/502715/live_194707653_5399055/index.m3u8
+粤语残片,https://cn-jssz-cm-02-07.bilivideo.com/live-bvc/959103/live_88547185_8335137/index.m3u8
+蜡笔小新,https://xy112x6x119x62xy.mcdn.bilivideo.cn:486/live-bvc/932897/live_22207826_3066385/index.m3u8
+蜡笔小新,https://cn-hnld-ct-01-37.bilivideo.com/live-bvc/485548/live_230437990_1763665_bluray/index.m3u8
+樱桃小丸子,https://cn-jssz-cm-02-31.bilivideo.com/live-bvc/237878/live_420429580_6506346_bluray/index.m3u8
+海绵宝宝,https://cn-jssz-cm-02-32.bilivideo.com/live-bvc/809193/live_75794176_4193018_bluray/index.m3u8
+哆啦A梦,https://cn-jxnc-cm-01-15.bilivideo.com/live-bvc/681325/live_8327004_5557615/index.m3u8
 ▣数字网络▣,#genre#
 
 精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -3511,6 +3534,9 @@ BOOM,http://116.11.140.141:8181/tsfile/live/1219_1.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+星衛電影台,http://23.237.10.66:16359
+龙祥时代,https://epg.pw/stream/af3d4696a51795162a37751aa9540a4bb224ef256d6ade811cc8418030e666ae.m3u8
+经典电影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
@@ -3610,6 +3636,24 @@ Hallywood,http://120.84.96.133:808/hls/24/index.m3u8
 民视,http://23.237.10.66:16334
 中天综合,http://23.237.10.66:16372
 民视新闻,http://123.51.230.108:18663/.m3u8
+人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+roollor,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+动画,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+影迷纪实台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+经典电影台,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+动漫,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+ABC互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+全球财经,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+中天,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+GlobalTrekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+Pet clubTV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+LUXETV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+CNBC,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 
 ▣GOOD▣_666,#genre#
 
@@ -3628,6 +3672,7 @@ GOODTV真情部落格HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 
 ▣日本频道▣_666,#genre#
 
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 日本声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
 Korea 12,http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -5539,6 +5584,24 @@ JYTV 新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u
 
 ▣江西频道▣,#genre#
 
+江西卫视,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西卫视,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西都市,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+江西都市,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+江西经济生活,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+江西经济生活,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+江西影视旅游,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
+江西影视旅游,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
+江西公共农业,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+江西公共农业http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+江西少儿,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西少儿,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西新闻,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西新闻,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西移动,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+江西移动,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+江西风尚购物,http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
+江西风尚购物,http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 江西都市,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
 江西经济生活,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
 江西影旅游,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
@@ -8454,4 +8517,4 @@ beIN Sports 2,P2p://generationnexxxt.com:19806/4d33827bf2f846e2a
 📺关于📺,#genre# 
 STV直播提醒您：,https://189.ly93.cc/y6v6JfMnmeqi/11517213913819460?accessToken=C0132FE0EF60105EECD170BDB9539212
 严禁用于商业用途,https://189.ly93.cc/y6v6JfMnmeqi/11517213913819460?accessToken=C0132FE0EF60105EECD170BDB9539212
-最新版本：1.0.1,https://189.ly93.cc/y6v6JfMnmeqi/11517213913819460?accessToken=C0132FE0EF60105EECD170BDB9539212
+最新版本：1.0.1,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313698307735.mp4 
