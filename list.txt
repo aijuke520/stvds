@@ -2,7 +2,7 @@
 欢迎使用STV,https://189.ly93.cc/b2q2qyY77neq/62375155036049829?accessCode=7sqx&accessToken=C0132FE0EF60105EECD170BDB9539212
 ===========,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313341682455.mp4 
 频道更新时间,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313689895693.mp4 
-2023年03月12日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
+2023年03月13日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
 资源均来自网络,https://189.ly93.cc/N7Bbiq6RVjY3/21396113487660887?accessToken=C0132FE0EF60105EECD170BDB9539212
 请勿作商业用途,https://189.ly93.cc/nyeQbyZV3YRj/31414213391406980?accessToken=C0132FE0EF60105EECD170BDB9539212
 可以加入交流群,https://189.ly93.cc/aaemEnvA7NJn/21396113487660674?accessToken=C0132FE0EF60105EECD170BDB9539212
@@ -1118,6 +1118,7 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224
 北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 绚影4K,http://home.ddx2013.cc:4022/rtp/239.93.4.248:8800
+北京纪实科教8K,http://downlive.brtvcloud.com/jpegxs1510/8kzuiqingxi.m3u8
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 BesTV4K电影,http://sy.sy123.love:4022/rtp/239.45.3.107:5140
 BesTV4K电视剧,http://sy.sy123.love:4022/rtp/239.45.1.107:5140
