@@ -2,7 +2,7 @@
 欢迎使用STV,https://189.ly93.cc/b2q2qyY77neq/62375155036049829?accessCode=7sqx&accessToken=C0132FE0EF60105EECD170BDB9539212
 ===========,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313341682455.mp4 
 频道更新时间,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313689895693.mp4 
-2023年03月15日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
+2023年03月16日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
 资源均来自网络,https://189.ly93.cc/N7Bbiq6RVjY3/21396113487660887?accessToken=C0132FE0EF60105EECD170BDB9539212
 请勿作商业用途,https://189.ly93.cc/nyeQbyZV3YRj/31414213391406980?accessToken=C0132FE0EF60105EECD170BDB9539212
 可以加入交流群,https://189.ly93.cc/aaemEnvA7NJn/21396113487660674?accessToken=C0132FE0EF60105EECD170BDB9539212
@@ -1423,9 +1423,7 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 樱桃小丸子,https://cn-jssz-cm-02-31.bilivideo.com/live-bvc/237878/live_420429580_6506346_bluray/index.m3u8
 海绵宝宝,https://cn-jssz-cm-02-32.bilivideo.com/live-bvc/809193/live_75794176_4193018_bluray/index.m3u8
 哆啦A梦,https://cn-jxnc-cm-01-15.bilivideo.com/live-bvc/681325/live_8327004_5557615/index.m3u8
-乐天喜剧电影,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
-动作好莱坞电影,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-Bizzarro电影,https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+
 ▣少儿频道▣,#genre#
 
 CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
