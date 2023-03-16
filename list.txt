@@ -1212,12 +1212,22 @@ TVP 4k,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
 Sky Sport UHD,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 HBO,http://esrv.cc:80/eduardo002/72836392/270.ts
-HBO Family,http://esrv.cc:80/eduardo002/72836392/41488.ts
-HBO1,http://esrv.cc:80/DgClovis/App12@tvbox/41487.ts
+HBO,http://esrv.cc:80/DgClovis/App12@tvbox/41487.ts
+HBO,http://esrv.cc:80/eduardo002/72836392/271.ts
 HBO2,http://esrv.cc:80/eduardo002/72836392/264.ts
-HBO3,http://esrv.cc:80/eduardo002/72836392/271.ts
+HBO2,http://esrv.cc:80/DgClovis/App12@tvbox/265.ts
+HBO Family,http://esrv.cc:80/eduardo002/72836392/41488.ts
+HBO POP,http://esrv.cc:80/eduardo002/72836392/41485.ts
 HBO MUNDI,http://esrv.cc:80/DgClovis/App12@tvbox/40032.ts
 HBO Max 1,http://esrv.cc:80/eduardo002/72836392/131.ts
+HBO Max 2,http://esrv.cc:80/eduardo002/72836392/133.ts
+HBO Max 3,http://esrv.cc:80/DgClovis/App12@tvbox/135.ts
+HBO Plus,http://esrv.cc:80/DgClovis/App12@tvbox/31490.ts
+HBO Signature,http://esrv.cc:80/eduardo002/72836392/41484.ts
+HBO XTREME,http://esrv.cc:80/eduardo002/72836392/40022.ts
+HBO+,http://esrv.cc:80/DgClovis/App12@tvbox/41490.ts
+
+
 ▣数字网络▣,#genre#
 
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
@@ -1413,8 +1423,9 @@ CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
 樱桃小丸子,https://cn-jssz-cm-02-31.bilivideo.com/live-bvc/237878/live_420429580_6506346_bluray/index.m3u8
 海绵宝宝,https://cn-jssz-cm-02-32.bilivideo.com/live-bvc/809193/live_75794176_4193018_bluray/index.m3u8
 哆啦A梦,https://cn-jxnc-cm-01-15.bilivideo.com/live-bvc/681325/live_8327004_5557615/index.m3u8
-
-
+乐天喜剧电影,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+动作好莱坞电影,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+Bizzarro电影,https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 ▣少儿频道▣,#genre#
 
 CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
@@ -1592,6 +1603,11 @@ RAW,http://aldirect.corp-hls.huya.com/src/1099531728841-1099531728841-8633341678
 巨石強森,http://aldirect.corp-hls.huya.com/src/1099531728843-1099531728843-86333425379704832-2199063581142-10057-A-0-1.m3u8??
 頂級大賽,http://aldirect.corp-hls.huya.com/src/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.m3u8??
 視頻秀,http://aldirect.corp-hls.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.m3u8??
+FOX Sports 2,http://esrv.cc:80/eduardo002/72836392/41500.ts
+迪拜体育1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+迪拜体育2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+迪拜体育3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
 
 
 ▣空中课堂▣,#genre#
