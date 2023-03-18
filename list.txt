@@ -1140,6 +1140,7 @@ BesTV热播剧场,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7
 峨眉电影,http://r.jdshipin.com/vFgDS
 4K超高清电影,http://r.jdshipin.com/B7sfp
 广东综艺,http://lu1.cc/itv/gdtv/gdtv.php?id=gdzy
+广东综艺,http://lu1.cc/itv/php/itouch.php?id=gdzy
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 现场4K,http://fengwei888888.asuscomm.com:3000/udp/239.49.8.207:6000
@@ -3643,29 +3644,6 @@ TVB財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
 
 ▣台湾频道▣_666,#genre#
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-MNEWS.镜新闻,https://pull-l3-cny.douyincdn.com/live/68c3a47a661be5d6996f07660d6e72e6.m3u8
-TVBS,https://pull-l3-cny.douyincdn.com/live/9d9e846769c50fef06530ffaa321cdfd.m3u8
-TVBS新闻台,https://pull-l3-cny.douyincdn.com/live/2cef4bd051f6b2d412e9b90fbd4e8d4b.m3u8
-TVBS欢乐台,https://pull-l3-cny.douyincdn.com/live/1b378ffa335a2cf4611e01bdd89363e5.m3u8
-寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a4a9689d113f9689b5cfe56c2a7eb196.m3u8
-东森LIVE,https://pull-l3-cny.douyincdn.com/live/bc95b0801e38858252baabec1357ae2b.m3u8
-中天新闻,https://pull-l3-cny.douyincdn.com/live/7372900345194d9103056180b109b889.m3u8
-中视新闻,https://pull-l3-cny.douyincdn.com/live/e99f553afaf1347cce22f446ee12db05.m3u8
-华视新闻资讯,https://pull-l3-cny.douyincdn.com/live/6cd16c5af9e487654098602013f9428f.m3u8
-民视新闻,https://pull-l3-cny.douyincdn.com/live/1e1c1a1f4c6d2855b27d9c2b4d1086a8.m3u8
-台视新闻,https://pull-l3-cny.douyincdn.com/live/808c1d2953cfb10d391c6b048a570128.m3u8
-中视,https://pull-l3-cny.douyincdn.com/live/c490dc2eb82c6ab25ca264f20e356729.m3u8
-民视,https://pull-l3-cny.douyincdn.com/live/57671089e214fdce51b5c3be1a1d0b47.m3u8
-台视,https://pull-l3-cny.douyincdn.com/live/0c52d9377c53e03a016ad39f15a4aa9e.m3u8
-东森财经新闻,https://pull-l3-cny.douyincdn.com/live/4aac2b8d73750e41bbec376c3827f421.m3u8
-华视,https://pull-l3-cny.douyincdn.com/live/fcb293418f612a52769ea050b80bd8a7.m3u8
-纬来体育,https://pull-l3-cny.douyincdn.com/live/c731ec01a3b71df74dfe0d89acfb8bd4.m3u8
-纬来日本,https://pull-l3-cny.douyincdn.com/live/6cb01cc8de19faa591f2e48cde166ca9.m3u8
-ELEVEN1,https://pull-l3-cny.douyincdn.com/live/0c9b17d4ab2e614a28a2f6f83df98668.m3u8
-ELEVEN2,https://pull-l3-cny.douyincdn.com/live/adc8ddb03497470fa1d0a1f0e2a20705.m3u8
-博斯魅力,https://pull-l3-cny.douyincdn.com/live/2359ea9433ee2cca433ad91b8411a836.m3u8
-ELTA体育3,https://pull-l3-cny.douyincdn.com/live/7297aa66a8fa4dc8c4ff166d7d0444b1.m3u8
-ELTA体育2,https://pull-l3-cny.douyincdn.com/live/03fcd65639f85fbf0801e20ed574c2bc.m3u8
 星衛電影台,http://23.237.10.66:16359
 台视,http://23.237.10.66:16344
 民视,http://23.237.10.66:16334
