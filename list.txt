@@ -1139,6 +1139,12 @@ BesTV热播剧场,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://r.jdshipin.com/vFgDS
 4K超高清电影,http://r.jdshipin.com/B7sfp
+广东4K超高清,http://www.kitcc.cn:8888/udp/239.77.1.236:5146
+广东4K超高清,http://www.kitcc.cn:8888/udp/239.77.1.237:5146
+广东4K超高清,http://www.kitcc.cn:8888/udp/239.77.0.244:5146
+广东4K超高清,http://www.kitcc.cn:8888/udp/239.77.0.246:5146
+广东4K超高清,http://www.kitcc.cn:8888/udp/239.77.0.245:5146
+广东4K超高清,http://www.kitcc.cn:8888/udp/239.77.0.252:5146
 广东综艺,http://lu1.cc/itv/gdtv/gdtv.php?id=gdzy
 广东综艺,http://lu1.cc/itv/php/itouch.php?id=gdzy
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
@@ -3555,22 +3561,8 @@ yo,http://aldirect.corp-hls.huya.com/src/1629196790-1629196790-69973469317981798
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-NOW新闻台,https://pull-l3-cny.douyincdn.com/live/bad7735d3909d907e5d03c4faa086ae1.m3u8
-香港国际财经,https://pull-l3-cny.douyincdn.com/live/69ab54c462e65752b75934cffb7af705.m3u8
-有线18,https://pull-l3-cny.douyincdn.com/live/c61b3175afb7031c8e614e0abfb84f15.m3u8
-有线603,https://pull-l3-cny.douyincdn.com/live/e3a35944fe0b4e92e9d2305663b0263b.m3u8
-无线新闻台,https://pull-l3-cny.douyincdn.com/live/d7ba76cf7c87641a041bef1de236717c.m3u8
-J2台,https://pull-l3-cny.douyincdn.com/live/97bcc1b171e63f71769849417bac93db.m3u8
 翡翠台,http://113.117.74.38:8081/hls/67/index.m3u8
 翡翠台,http://chuangye168.gnway.org:56994/g8dyou.php?id=1350_4500
-明珠台,https://pull-l3-cny.douyincdn.com/live/eff4fd868e75009c55c443a07189bf06.m3u8
-有线体育,https://pull-l3-cny.douyincdn.com/live/2fa5bc8b19f2af7601bd7ee25b0d728d.m3u8
-有线新闻台,https://pull-l3-cny.douyincdn.com/live/e170dc9f0342bc153cc45016a2acbe57.m3u8
-VIUTV,https://pull-l3-cny.douyincdn.com/live/d6a0a0f460f10f82a6228dbd872c62da.m3u8
-RHK31,https://pull-l3-cny.douyincdn.com/live/0f667bf497a0a34cc01b79b054decb53.m3u8
-RHK32,https://pull-l3-cny.douyincdn.com/live/8c3d637b5641a78a8a5d6e9801552013.m3u8
-HOY资讯台,https://pull-l3-cny.douyincdn.com/live/f1e25e9766a90f99cb02e3a6cd8e1d64.m3u8
-HOYTV台,https://pull-l3-cny.douyincdn.com/live/a92fce7edc9b1ede8ac11077a577ac4a.m3u8
 翡翠台,http://59.32.98.226:9901/tsfile/live/1029_1.m3u8
 明珠台,http://59.32.98.226:9901/tsfile/live/1014_1.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
@@ -3635,6 +3627,15 @@ ViuTV台,https://cdn.hklive.tv/xxxx/99/index.m3u8
 TVB新聞,https://cdn.hklive.tv/xxxx/83/index.m3u8
 TVB財經,https://cdn.hklive.tv/xxxx/85/index.m3u8
 香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+imodeTV,http://player2.juyun.tv/camera/80238159.m3u8
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+HoyTV,http://2022.stream-link.org/playlist/hoy_tv.ts
+HoyTV资讯,http://2022.stream-link.org/playlist/hoy_info.ts
+RTHK31 高清,http://2022.stream-link.org/playlist/rthk_31.ts
+RTHK32 高清,http://2022.stream-link.org/playlist/rthk_32.ts
+有线新闻,http://2022.stream-link.org/playlist/cable_news.ts
+有线财经,http://2022.stream-link.org/playlist/cable_finance.ts
 
 ▣澳门频道▣_666,#genre#
 
@@ -3655,6 +3656,8 @@ CHINA电影,http://lcx-olt.8866.org:8181/tsfile/live/1076_1.m3u8
 龙祥时代电影http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
 龙祥时代,https://epg.pw/stream/af3d4696a51795162a37751aa9540a4bb224ef256d6ade811cc8418030e666ae.m3u8
 八大第一,http://123.51.230.108:18539/.m3u8
+东風37,http://123.51.230.108:18560/.m3u8
+东森財经 HD,http://123.51.230.108:18515/.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
@@ -3803,7 +3806,27 @@ TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 時裝頻道,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-
+台视,http://2023.stream-link.org/playlist/ttv.flv
+中视,http://2023.stream-link.org/playlist/ctv.flv
+民视,http://2023.stream-link.org/playlist/ftv.flv
+华视,http://2023.stream-link.org/playlist/cts.flv
+台视新闻,http://2023.stream-link.org/playlist/ttv_news.flv
+中视新闻,http://2023.stream-link.org/playlist/ctv_news.flv
+民视新闻,http://2023.stream-link.org/playlist/ftv_news.flv
+华视新闻,http://2023.stream-link.org/playlist/cts_news.flv
+TVBS,http://2023.stream-link.org/playlist/tvbs.flv
+TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news.flv
+东森新闻,http://2023.stream-link.org/playlist/ebc_news.flv
+东森财经,http://2023.stream-link.org/playlist/ebc_finance.flv
+东森幼幼,http://2023.stream-link.org/playlist/ebc_yoyo.flv
+中天新闻,http://2023.stream-link.org/playlist/cti_news.flv
+中天综合,http://2023.stream-link.org/playlist/cti_zh.flv
+中天亚洲,http://2023.stream-link.org/playlist/cti_asia.flv
+寰宇新闻,http://2023.stream-link.org/playlist/global_news.flv
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw.flv
+三立新闻,http://2023.stream-link.org/playlist/set_news.flv
+三立新闻+,http://2023.stream-link.org/playlist/set_news+.flv
+三立财经,http://2023.stream-link.org/playlist/set_inews.flv
 
 ▣GOOD▣_666,#genre#
 
